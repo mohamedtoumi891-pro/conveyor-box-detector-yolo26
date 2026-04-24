@@ -2,7 +2,7 @@
 
 This project implements a high-speed computer vision solution for detecting boxes on industrial production lines. Using the YOLO26n architecture, the model provides real-time inference suitable for integration with automated conveyor systems.
 
-![Detection Preview](box_0455.jpg)
+![Detection Preview](box_0455.png)
 
 ## 🚀 Performance
 * **Accuracy:** 90% mAP (mean Average Precision)
